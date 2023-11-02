@@ -2,7 +2,7 @@
 
 This is a repository for my Zenn articles.
 
-By pushing articles to this repository, the articles will be published on [Zenn](https://zenn.dev/) automatically.
+By pushing articles to this repository, the articles will be published on [Zenn](https://zenn.dev/gae) automatically.
 
 ## Usage
 
