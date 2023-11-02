@@ -18,12 +18,6 @@ $ npx zenn new:article
 $ npx zenn preview
 ```
 
-### Publish
-
-```bash
-$ npx zenn publish
-```
-
 # 参考
 
 [Install Zenn CLI](https://zenn.dev/zenn/articles/install-zenn-cli)<br>
